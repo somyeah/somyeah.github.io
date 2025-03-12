@@ -91,7 +91,7 @@ h3 {
 
 p {
     font-family: 'Playfair Display', serif;
-    font-style: italic;
+    font-style: normal;
     font-size: 100%;
     color: #606060;
 }
@@ -281,11 +281,6 @@ ul li {
     abbr[title]:after {
         content: " (" attr(title) ")";
     }
-
-    /*
-     * Don't show links that are fragment identifiers,
-     * or use the `javascript:` pseudo protocol
-     */
 
     a[href^="#"]:after,
     a[href^="javascript:"]:after {
