@@ -123,6 +123,14 @@ p {
     margin-bottom: 15px;
 }
 
+.socialmediaicon {
+    margin-right: 4px;
+}
+
+.socialmediaicon:hover {
+    text-decoration: none;
+}
+
 ul li {
     margin: 0px;
     padding: 0px; 
