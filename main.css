@@ -47,7 +47,7 @@ textarea {
 
 .browserupgrade {
     margin: 0.2em 0;
-    background: #ccc;
+    background: #89cff0;
     color: #000;
     padding: 0.2em 0;
 }
@@ -140,7 +140,7 @@ ul li {
     }
 
     .circular {
-        width: 40%;
+        width: 50%;
     }
 
     .container {
